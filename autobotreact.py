@@ -1,5 +1,5 @@
 import os 
-import opencv2
+import cv2
 import casgrand
 import argparse
 import pandas as pd
